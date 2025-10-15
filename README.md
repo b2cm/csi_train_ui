@@ -1,8 +1,10 @@
 # csi_train_ui
 
 **train-ui** is a vue.js web application that provides a user interface for the blockchain-based train delay insurance service developed in the CSI project.
-
 It is part of a larger ecosystem that includes train delay prediction services and smart contract-based insurance payouts.
+
+⚠️ Important Notice
+This repository may contain deprecated code as it was built in 2022.
 
 ### Project Setup
 
